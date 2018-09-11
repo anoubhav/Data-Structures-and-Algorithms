@@ -3,4 +3,4 @@ binary_revise.py
 binary search trees revise.py
 /.vscode
 /__pycache__
-test.py
+test*.py
