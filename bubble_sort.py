@@ -1,4 +1,4 @@
-# Insertion sort algorithm: O(n^2)
+# Bubble sort algorithm: O(n^2)
 
 import random
 import time

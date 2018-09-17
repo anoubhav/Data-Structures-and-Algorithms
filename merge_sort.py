@@ -16,17 +16,22 @@ def merge(a, b):
     else: c.extend(a[a_idx:])
     return c
 
-def mergesort(a):
+def merge_sort(a):
     # a list of 0 or 1 element is sorted by definition
     if len(a)<=1: return a
 
-    # split the list in half and call mergesort recursively for each half
-    left, right = mergesort(a[:len(a)//2]), mergesort(a[len(a)//2:])
+    # split the list in half and call merge_sort recursively for each half
+    left, right = merge_sort(a[:len(a)//2]), merge_sort(a[len(a)//2:])
 
     # merge the now-sorted sublists
     return merge(left, right)
 
-a = create_array()
-print(a)
-s = mergesort(a)
-print(s)
+def main():
+    a = create_array()
+    print(a)
+    s = merge_sort(a)
+    print(s)
+    
+if __name__ == '__main__':
+    main()
+
