@@ -10,7 +10,7 @@ The function should return true
 """
 def is_sorted(stack):
     storage_stack = []
-    for i in range(len(stack)):
+    for _ in range(len(stack)):
         if len(stack) == 0:
             break   
         first_val = stack.pop()
@@ -23,7 +23,7 @@ def is_sorted(stack):
         stack.append(second_val)    
 
     # Backup stack
-    for i in range(len(storage_stack)):
+    for _ in range(len(storage_stack)):
         stack.append(storage_stack.pop())
 
     return True
