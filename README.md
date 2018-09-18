@@ -3,33 +3,33 @@ This repository contains code for different data structures and algorithms in **
 
 ## Linked List
 
-- [Linkedlist](/linkedlist.py)
+- [Linkedlist](/linkedlists.py)
 
 ## Stacks
 
-- [Stack](/stack.py)
-- [Parenthesis Matching](/parenthesis_checker.py)
-- [Binary Converter](/int2bin.py)
-- [Reverse a String](/reverse_string.py)
-- [Sorted Stack](/stack_is_sorted.py)
+- [Stack](/Stacks/stack.py)
+- [Parenthesis Matching](/Stacks/parenthesis_checker.py)
+- [Binary Converter](/Stacks/int2bin.py)
+- [Reverse a String](/Stacks/reverse_string.py)
+- [Sorted Stack](/Stacks/stack_is_sorted.py)
 
 ## Sorting
 
-- [Bubble Sort](/bubble_sort.py)
-- [Selection Sort](/selection_sort.py)
-- [Insertion Sort (no swaps)](/insertion_sort_assignment.py)
-- [Insertion Sort (using swaps)](/insertion_sort_swapping.py)
-- [Merge Sort](/merge_sort.py)
-- [Quick Sort 3](/quicksort3.py)
-- [Quick Sort 3 (out of place)](/quicksort_outofplace.py)
-- [Benchmark sorting algorithms](/benchmark_sorting.py)
+- [Bubble Sort](/Sorting_algorithms/bubble_sort.py)
+- [Selection Sort](/Sorting_algorithms/selection_sort.py)
+- [Insertion Sort (no swaps)](/Sorting_algorithms/insertion_sort_assignment.py)
+- [Insertion Sort (using swaps)](/Sorting_algorithms/insertion_sort_swapping.py)
+- [Merge Sort](/Sorting_algorithms/merge_sort.py)
+- [Quick Sort 3](/Sorting_algorithms/quicksort3.py)
+- [Quick Sort 3 (out of place)](/Sorting_algorithms/quicksort_outofplace.py)
+- [Benchmark sorting algorithms](/Sorting_algorithms/benchmark_sorting.py)
 
 ## Algorithms
 
-- [Towers of Hanoi](/towers%20of%20hanoi.py)
-- [Sieve of Eratosthenes](/sieve_of_eratosthenes.py)
-- [Frog leaping(recursion)](/frog%20recursion.py)
-- [Array advance game](/array_advance_game.py)
-- [Binary Search](/binary%20search.py)
+- [Towers of Hanoi](/Algorithms/towers%20of%20hanoi.py)
+- [Sieve of Eratosthenes](/Algorithms/sieve_of_eratosthenes.py)
+- [Frog leaping(recursion)](/Algorithms/frog%20recursion.py)
+- [Array advance game](/Algorithms/array_advance_game.py)
+- [Binary Search](/Algorithms/binary%20search.py)
 
 
