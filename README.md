@@ -3,7 +3,7 @@ This repository contains code for different data structures and algorithms in **
 
 ## Linked List
 
--[Linkedlist](/linkedlist.py)
+- [Linkedlist](/linkedlist.py)
 
 ## Stacks
 
@@ -22,12 +22,14 @@ This repository contains code for different data structures and algorithms in **
 - [Merge Sort](/merge_sort.py)
 - [Quick Sort 3](/quicksort3.py)
 - [Quick Sort 3 (out of place)](/quicksort_outofplace.py)
-- [Benchmarking sorting algorithms](/benchmark_sorting.py)
+- [Benchmark sorting algorithms](/benchmark_sorting.py)
 
 ## Algorithms
 
 - [Towers of Hanoi](/towers%20of%20hanoi.py)
 - [Sieve of Eratosthenes](/sieve_of_eratosthenes.py)
 - [Frog leaping(recursion)](/frog%20recursion.py)
+- [Array advance game](/array_advance_game.py)
+- [Binary Search](/binary%20search.py)
 
 

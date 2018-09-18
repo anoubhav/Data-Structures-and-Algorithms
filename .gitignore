@@ -1,6 +1,7 @@
-linkedlist_revise.py
+/.vscode
+__pycache__/
+
 binary_revise.py
 binary search trees revise.py
-/.vscode
-/__pycache__
 test*.py
+hash table.py
