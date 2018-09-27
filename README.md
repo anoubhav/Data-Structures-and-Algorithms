@@ -33,6 +33,6 @@ This repository contains code for different data structures and algorithms in **
 - [Binary Search vs Linear Search](/Algorithms/binary%20search.py)
 - [Tree Traversal](/Algorithms/tree_traversals.py)
 - [Longest Increasing Subsequence](/Algorithms/LIS_DP.py)
-- [Fibonacci Numbers](/Algoritms/fibonacci.py)
+- [Fibonacci Numbers](/Algorithms/fibonacci.py)
 
 
