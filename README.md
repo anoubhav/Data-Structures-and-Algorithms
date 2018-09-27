@@ -31,5 +31,6 @@ This repository contains code for different data structures and algorithms in **
 - [Frog leaping(recursion)](/Algorithms/frog%20recursion.py)
 - [Array advance game](/Algorithms/array_advance_game.py)
 - [Binary Search](/Algorithms/binary%20search.py)
+- [Tree Traversal](/Algorithms/tree_traversals.py)
 
 
