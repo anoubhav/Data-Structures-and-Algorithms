@@ -15,13 +15,14 @@ def is_paren_balanced(paren_str):
     for i in paren_str:
         if i in '([{':
             s.push(i)
-        else:
+        elif i in ')]}':
             if s.is_empty():
                 return False
             else:
                 if not is_match(s.pop(), i):
                     return False
 
-    return True
+    if s.is_empty(): return True
+    else: return False
 
 print(is_paren_balanced(paren_str))
