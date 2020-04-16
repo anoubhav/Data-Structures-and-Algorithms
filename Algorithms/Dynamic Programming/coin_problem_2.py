@@ -1,4 +1,4 @@
-# calculate the total number of ways to produce a sum x using the coins.
+# calculate the total number of ways to produce a sum x using the coins {c1, c2, c3, .., ck}
 
 def iterative(coins, target):
     for i in range(1, target + 1):
