@@ -1,6 +1,7 @@
 # Partition problem is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both subsets is same.
 
 # Same as subset sum, we just have to find if a subset sum == sum of array//2. Thus, if sum of array is odd, it is not possible.
+# The iterative and memoized codes for this problem are same as subset sum only the input to the function is different in the main function.
 
 def eps_recursive(nums, total, n):
     if total == 0:
