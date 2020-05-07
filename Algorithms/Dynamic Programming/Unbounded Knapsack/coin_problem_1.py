@@ -1,5 +1,6 @@
 # Given a set of coin values = {c1, c2, c3, .., ck} and a target sum of money n, our task is to
-# form the sum n using as few coins as possible
+# form the sum n using as few coins as possible.
+
 from math import inf
 from time import time
 

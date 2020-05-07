@@ -1,4 +1,5 @@
-# 0-1 Knapsack problem: Maximize the value of items stored in a knapsack by either selecting/leaving items from a list.
+# 0-1 Knapsack problem: Maximize the value of items stored in a knapsack by either selecting/leaving items from a list
+# with NO repitition.
 
 # wt - array of item weights
 # val - array of item value
