@@ -10,4 +10,11 @@ def frog_path(n):
     if n == 2:
         return 2
     return frog_path(n-1) + frog_path(n-2)
-print(frog_path(11))
+
+import time
+t = time.time()
+print(frog_path(40))
+print(time.time()-t)
+
+# python - 66.5 seconds
+# pypy3 - 2.3seconds
